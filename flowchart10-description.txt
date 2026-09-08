@@ -1,0 +1,13 @@
+The daily process from my daily life is "doing a task"
+
+First, I read the task instructions and input the information from the task.
+
+Then I decide whether I understand the task.
+
+If I understand the task, I solve it and output the solution.
+
+If I do not understand the task, I research the task further using a book or my notes. 
+
+After researching, I check again whether I understand the task.
+
+This process continues until I understand the task and can solve it.
